@@ -334,20 +334,10 @@
 "innerShadows":[],
 "shadows":[]
 },
-"edited":false,
+"edited":true,
 "isClosed":true,
 "pointRadiusBehaviour":1,
 "points":[
-{
-"_class":"curvePoint",
-"cornerRadius":0,
-"curveFrom":"{0, 0}",
-"curveMode":1,
-"curveTo":"{0, 0}",
-"hasCurveFrom":false,
-"hasCurveTo":false,
-"point":"{0, 0}"
-},
 {
 "_class":"curvePoint",
 "cornerRadius":0,
@@ -389,11 +379,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"allowResizedMatching":0,
-"offersLandscapeVariant":1,
-"width":320,
 "height":1024,
-"name":"Mobile"
+"offersLandscapeVariant":1,
+"name":"Mobile",
+"width":320,
+"allowResizedMatching":0
 },
 "resizesContent":false,
 "backgroundColor":{
